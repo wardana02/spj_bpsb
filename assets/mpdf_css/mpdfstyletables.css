@@ -1,0 +1,97 @@
+
+body {
+	font-family: "Times New Roman", Times, serif;
+}
+
+body p {
+	font-weight: bold;
+}
+body p {
+	text-align: center;
+}
+
+
+
+		.S {
+			font-family: "Times New Roman", Times, serif;
+			text-align: justify;
+		}
+		.fomtsplh {
+			font-family: "Times New Roman", Times, serif;
+			font-size: 10pt;
+			text-align: justify;
+		}
+		.ft_splh {
+			font-family: "Times New Roman", Times, serif;
+			font-size: 10pt;
+		}
+
+
+.ft_13 {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 13pt;
+}
+.ft_10 {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 10px;
+}
+
+.bold_12 {
+	font-weight: bold;
+	font-family: "Times New Roman", Times, serif;
+	text-align: center;
+}
+.ft_11 {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 11pt;
+}
+.std_12 {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 12pt;
+}
+.std_11 {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 11pt;
+}
+
+
+body center{
+	text-align: center;
+}
+body justify{
+	text-align: justify;
+}
+
+
+.kotak{ border-right-style:solid;
+    border-left-style:solid;
+    border-bottom-style:solid;
+    border-top-style:solid;
+     border-width:2px; border-color: #000; }
+	 
+	.br_top_btm{
+		border-top-style:solid;
+		border-bottom-style:solid;
+		border-width:2px; border-color: #000; 
+		} 
+	 
+	.br_right{
+		border-right-style:solid;
+		border-width:2px; border-color: #000; 
+		}
+		
+	.br_left{
+		border-left-style:solid;
+		border-width:2px; border-color: #000; 
+		}
+		
+	.br_top{
+		border-top-style:solid;
+		border-width:2px; border-color: #000; 
+		}
+		
+	.br_bottom{
+		border-bottom-style:solid;
+		border-width:2px; border-color: #000; 
+		}
+

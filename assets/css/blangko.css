@@ -1,0 +1,61 @@
+
+.ft_13 {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 13pt;
+}
+.ft_10 {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 10px;
+}
+body p {
+	font-weight: bold;
+}
+body p {
+	text-align: center;
+}
+.bold_12 {
+	font-weight: bold;
+	font-family: "Times New Roman", Times, serif;
+	text-align: center;
+}
+.ft_11 {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 11pt;
+}
+.std_12 {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 12pt;
+}
+
+
+.kotak{ border-right-style:solid;
+    border-left-style:solid;
+    border-bottom-style:solid;
+    border-top-style:solid;
+     border-width:2px; border-color: #000; }
+	 
+	.br_top_btm{
+		border-top-style:solid;
+		border-bottom-style:solid;
+		border-width:2px; border-color: #000; 
+		} 
+	 
+	.br_right{
+		border-right-style:solid;
+		border-width:2px; border-color: #000; 
+		}
+		
+	.br_left{
+		border-left-style:solid;
+		border-width:2px; border-color: #000; 
+		}
+		
+	.br_top{
+		border-top-style:solid;
+		border-width:2px; border-color: #000; 
+		}
+		
+	.br_bottom{
+		border-bottom-style:solid;
+		border-width:2px; border-color: #000; 
+		}
